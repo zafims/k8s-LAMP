@@ -103,7 +103,8 @@ http://a923b8ce414c611e9a4580e9bc01181a-1306726413.us-east-1.elb.amazonaws.com/
 
 User: **root**
 
-Password: **redhat**    						// We setup MySQL root password in our Mysql.yaml deployment file.//
+Password: **redhat**    						
+// We setup MySQL root password in our Mysql.yaml deployment file.//
 
 **We have successfully setup LAMP stack on EKS Kubernetes cluster.**
 
