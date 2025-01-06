@@ -11,7 +11,7 @@ spec:
     spec:
       containers:
         - name:  apache
-          image: amarsingh3d/apache2.4-php7.2
+          image: webdevops/php-apache
           ports:
            - containerPort: 80
              name:  apache
