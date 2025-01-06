@@ -8,11 +8,11 @@ We need to clone git repository, in order to download Apache,PHP,MySQL and PhpMy
 
 To clone git repository run the following command.
 ```
-$ git clone https://github.com/amarsingh3d/kubernetes-LAMP.git
+$ git clone https://github.com/zafims/k8s-LAMP.git
 ```
 Clone output would be like this
 ```
-Cloning into 'kubernetes-LAMP'...
+Cloning into 'k8s-LAMP'...
 remote: Enumerating objects: 12, done.
 remote: Counting objects: 100% (12/12), done.
 remote: Compressing objects: 100% (7/7), done.
@@ -23,7 +23,7 @@ Unpacking objects: 100% (12/12), done.
 Once download finish, change directory
 
 ```
-$ cd cd kubernetes-LAMP/
+$ cd cd k8s-LAMP/
 ```
 
 **Step-2: Create Apache,PHP,MySQL,PhpMyAdmin Deployment & Service**
